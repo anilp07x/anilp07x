@@ -6,7 +6,7 @@ Full-stack Developer · Luanda, Angola
 
 ---
 
-Desenvolvo aplicações web de ponta a ponta — do frontend em React às APIs em Node e Laravel.
+Desenvolvo aplicações web de ponta a ponta do frontend em React às APIs em Node e Laravel.
 
 Interesse em ferramentas offline-first, automação e produtos para o mercado angolano.
 
